@@ -23,8 +23,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Program:
 
-DEVELOPED BY : VIDHIYA LAKSHMI S
-REGISTER NO  : 212223230238
+DEVELOPED BY : V RAKSHA DHARANIKA
+REGISTER NO  : 212223230167
 
 
 ```python
